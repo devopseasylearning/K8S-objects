@@ -1,0 +1,7 @@
+kind: ConfigMap
+apiVersion: v1
+metadata:
+  name: myappsconfigmap
+data:
+  devops: money
+  from_here: it_is_possible
